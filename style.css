@@ -1,0 +1,170 @@
+
+body{
+    background-image: url(./cataratas.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.texto{
+    font-size: 100px;
+    color: rgb(159, 202, 183);
+    margin-top: 200px; 
+    text-align: center;
+    margin-bottom: 15px;
+}
+.musica{
+width: 40vw;
+font-size: 20px;
+color: green;
+} 
+
+.bandeira{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 35px;
+}
+.texto_regiao{
+    color: white;
+    width: 25vw;
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.cartografia{
+    width: 10vw;
+}
+.mascote{
+    margin-top: 20px;
+    width: 15vw;
+}
+.bandeiraa{
+    width: 25vw;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+.imagens{
+    display: flex;
+    flex-direction: row;
+}
+.botao1{
+    height: 7vh;
+    width: 20%;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(31, 155, 105);
+    margin-right: 20px;
+    margin-top: 40px;   
+}
+.botoes{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.nomes{
+    color: white;
+    text-align: center;
+}
+
+.video{
+    height: 25vh;
+    width: 25vw;
+    margin-left: 25px;
+}
+.paragrafo{
+    width: 70vw;
+    font-size: 18px;
+    text-align: justify;
+    color: white;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.paragrafo1{
+    width: 70vw;
+    font-size: 18px;
+    text-align: justify;
+    color: white;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.paragrafo2{
+    width: 70vw;
+    font-size: 18px;
+    text-align: justify;
+    color: white;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.mapa_sc{
+    width: 20vw;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+.mapa_rs{
+    width: 15vw;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+.chimarrao{
+    width: 20vw;
+    margin-left: 20px;
+}
+.cavaquinho{
+    width: 20vw;
+    margin-left: 20px;
+}
+.carne{
+    width: 20vw;
+    margin-left: 20px;
+}
+.mapa_parana{
+    width: 20vw;
+}
+.santa_catarina{
+    background-image: url(./bc.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.rio_grande_do_sul{
+    background-image: url(./canela_rs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.titulo3{
+    color: rgb(70, 159, 184);
+    font-size: 30px;
+    text-align: center;
+
+}
+.titulo4{
+    color: rgb(70, 159, 184);
+    font-size: 30px;
+    text-align: center;
+
+}
+.titulo5{
+    color: rgb(70, 159, 184);
+    font-size: 30px;
+    text-align: center;
+
+}
+.bandeira_sc{
+    width: 20vw;
+}
+.bandeira_rs{
+    width: 20vw;
+}
+.bandeira_parana{
+    width: 20vw;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+
